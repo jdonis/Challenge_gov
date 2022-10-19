@@ -6,9 +6,13 @@ import "uswds/dist/js/uswds.js";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
 
-// Admin LTE
+// Admin LTE v3
 import "admin-lte/dist/css/adminlte.css";
 import "admin-lte/dist/js/adminlte.js";
+
+// Admin LTE v4
+//import "adminlte4-bs5/dist/css/adminlte.css"
+//import "adminlte4-bs5/dist/js/adminlte.js";
 
 // Rich Text Editor
 import "quill/dist/quill.core.css";
